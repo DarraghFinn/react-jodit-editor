@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/darraghfinn/react-jodit-editor.git"
   },
-  "homepage": "https://https://github.com/DarraghFinn/react-jodit-editor#readme",
+  "homepage": "https://github.com/DarraghFinn/react-jodit-editor#readme",
   "description": "React WYSIWYG Editor Which Uses Jodit & Jodit-React In A Simplified Component",
   "devDependencies": {
     "@babel/core": "^7.11.6",
