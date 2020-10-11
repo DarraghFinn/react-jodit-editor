@@ -1,2 +1,2 @@
-import HTMLEditor from "./HTMLEditor";
-export default HTMLEditor;
+import Test from "../demo";
+export default Test;

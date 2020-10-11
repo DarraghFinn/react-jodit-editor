@@ -8,7 +8,7 @@ export default function JoditSetup(props) {
   let {
     darkMode = false,
     readOnly = false,
-    height = 600,
+    height = 550,
     customToolbar = BUTTONS,
     initialValue = "",
     updateFiles,
