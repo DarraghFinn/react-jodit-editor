@@ -1,9 +1,10 @@
 {
   "name": "react-jodit-editor",
-  "version": "1.0.2",
-  "main": "src/index.js",
+  "version": "1.0.8",
+  "main": "dist/index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
+    "publish": "npm run build",
     "build": "webpack --mode production"
   },
   "keywords": [
