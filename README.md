@@ -34,7 +34,7 @@ npm install react-jodit-editor --save
 ## Example
 
 ```jsx
-import HTMLEditor from "HTMLEditor";
+import HTMLEditor from "react-jodit-editor";
 import ReactDOM from "react-dom";
 import React, { useState } from "react";
 
