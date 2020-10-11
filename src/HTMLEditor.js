@@ -2,6 +2,8 @@ import JoditSetup from "./JoditSetup";
 import React, { memo } from "react";
 
 const HTMLEditor = memo(({ onChange, uploadFiles, files, ...rest }) => {
+  console.log("here");
+
   let hasFileUpload = uploadFiles && files ? { updateFiles } : undefined;
 
   function updateState(value) {
