@@ -1,0 +1,45 @@
+{
+  "name": "react-jodit-editor",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "react-html-wysiwyg-editor",
+    "react-html-editor",
+    "react-html-wysiwyg",
+    "react-editor",
+    "react-wysiwyg",
+    "react-wysiwyg-editor"
+  ],
+  "author": "Darragh Finn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darraghfinn/react-jodit-editor.git"
+  },
+  "homepage": "https://https://github.com/DarraghFinn/react-jodit-editor#readme",
+  "description": "React WYSIWYG Editor Which Uses Jodit & Jodit-React In A Simplified Component",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "html-loader": "^1.3.1",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "jodit": "^3.4.27",
+    "jodit-react": "^1.0.64",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "bugs": {
+    "url": "https://github.com/DarraghFinn/react-jodit-editor/issues"
+  }
+}
